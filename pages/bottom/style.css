@@ -1,0 +1,28 @@
+body {
+    font-family: Jua, sans-serif;
+}
+.title {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Jua, sans-serif;
+}
+.list{
+    width: 300px;
+    border: 3px solid;
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+    text-align: start;
+    
+}
+
+.list-parent {
+    background-color: green;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+img {
+    /* 사진 다시 수집 */
+}

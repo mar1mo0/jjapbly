@@ -1,0 +1,14 @@
+body {
+    font-family: Jua, sans-serif;
+}
+.title {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Jua, sans-serif;
+}
+.list{
+    width: 20%;
+    border: 5px solid;
+    margin: 50px;
+    border-radius: 10px;
+}
