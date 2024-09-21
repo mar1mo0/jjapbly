@@ -7,22 +7,26 @@ body {
     font-family: Jua, sans-serif;
 }
 .list{
-    width: 300px;
+    width: 156px;
     border: 3px solid;
     border-radius: 10px;
     margin: 20px;
     display: inline-block;
     text-align: start;
-    
-}
-
-.list-parent {
-    background-color: green;
-    text-align: center;
-    margin-top: 100px;
-
+    height: px;
 }
 
 img {
-    /* 사진 다시 수집 */
+    height: 175px;
+}
+/* class 안에 class 정의방법 알아보기 */
+
+.list-parent {
+    
+    text-align: center;
+    margin-top: 100px;
+}
+
+.discount {
+    color: red;
 }
