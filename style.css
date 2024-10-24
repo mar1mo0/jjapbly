@@ -7,10 +7,11 @@ body {
     font-family: Jua, sans-serif;
 }
 .list{
-    width: 156px;
+    width: 154px;
     border: 3px solid;
     border-radius: 10px;
-    margin: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
     display: inline-block;
     text-align: start;
     height: px;
