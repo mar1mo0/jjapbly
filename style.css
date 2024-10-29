@@ -7,14 +7,17 @@ body {
     font-family: Jua, sans-serif;
 }
 .list{
-    width: 154px;
-    border: 3px solid;
+    width: 49%;
+    height:auto;
     border-radius: 10px;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-bottom: 10px;
     display: inline-block;
     text-align: start;
-    height: px;
+}
+
+.list-parent {
+    width: 100%;
 }
 
 .Suggestion {
@@ -25,6 +28,7 @@ body {
 .discount{
     color: red;
 }
-img{
-    height: 175px;
+
+img {
+    height: 180px;
 }

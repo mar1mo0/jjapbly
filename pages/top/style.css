@@ -7,17 +7,20 @@ body {
     font-family: Jua, sans-serif;
 }
 .list{
-    width: 156px;
-    border: 3px solid;
+    width: 49%;
     border-radius: 10px;
-    margin: 20px;
+    margin-left: 0px;
+    margin-bottom: 10px;
     display: inline-block;
     text-align: start;
-    height: px;
+}
+
+.list-parent {
+    width: 100%;
 }
 
 img {
-    height: 175px;
+    height: 200px;
 }
 /* class 안에 class 정의방법 알아보기 */
 
