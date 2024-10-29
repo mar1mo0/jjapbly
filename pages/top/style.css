@@ -1,5 +1,7 @@
 body {
     font-family: Jua, sans-serif;
+    width: 380px;
+    margin: auto;
 }
 .title {
     text-align: center;

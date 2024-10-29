@@ -1,10 +1,13 @@
 body {
     font-family: Jua, sans-serif;
+    width: 380px;
+    margin: auto;
+    
 }
 .title {
-    text-align: center;
     margin-top: 20px;
     font-family: Jua, sans-serif;
+    margin: 10px;
 }
 .list{
     width: 156px;
@@ -26,4 +29,7 @@ body {
 }
 img{
     height: 175px;
+}
+.main {
+    text-align: center;
 }
